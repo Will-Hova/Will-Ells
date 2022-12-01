@@ -1,0 +1,23 @@
+You can try and first change your username and email in the GitHub for Windows option (click on the Tools icon)
+
+username
+
+The OP Dinesh does insist that the default username and host is displaying the profile and the system name.
+He asks if it is possible to change the default one to his custom username and host, because the user and the host will not be changed.
+
+I reply:
+
+I believe the gitbash display your local hostname no matter what the remote repo you are cloning.
+You will be able to register a custom username within the cloned repo with a git config user.name xxx: even if the gitbash still displays your local username and hostname, that won't prevent the commits to use the correct username of the local git config, and to use the credentials you want when pushing back to the up~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+Will-Ell [unix] (18:59 31/12/1969)                                                                                                                                                       0,1 All
+-- INSERT --
+
